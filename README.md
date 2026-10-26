@@ -37,5 +37,3 @@ de forma automática.
 - Las cuentas creadas en mail.tm son temporales y pueden expirar o eliminarse
   automáticamente pasado un tiempo (dependen del servicio, no de esta app).
 - No se guarda ningún dato en disco; correo y contraseña solo se muestran en pantalla.
-- Si quieres, puedo agregarle: guardar las cuentas generadas en un archivo, una interfaz
-  gráfica (Tkinter) en vez de consola, o notificación automática cuando llegue un correo.
